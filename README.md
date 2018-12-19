@@ -18,8 +18,8 @@
   
 # Create Models
 
-`
-using System;
+
+`using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -38,5 +38,4 @@ namespace PlayBall.Models
         public String positionCode { get; set; }
         public String teamID { get; set; }
     }
-}
-`
+}`
