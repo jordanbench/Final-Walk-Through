@@ -1,10 +1,10 @@
 # Final-Walk-Through
 
-#h1 Step 1 Create DB
+# H1 Step 1 Create DB
 
-- Create the DB and enter data w/script https://github.com/byu-is-403/syllabus/blob/master/entity-framework/using-sql.md  
+..* Create the DB and enter data w/script https://github.com/byu-is-403/syllabus/blob/master/entity-framework/using-sql.md  
 
-Step 2 Connect DB
+# H1 Step 2 Connect DB
 
 - open the Web.config file
 - Modify connection string
