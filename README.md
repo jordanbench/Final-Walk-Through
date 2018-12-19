@@ -9,7 +9,7 @@ Step 2 Connect DB
 - open the Web.config file
 - Modify connection string
 
-<connectionStrings>
+Inline `<connectionStrings>
     <add name="BasketballContext" connectionString="Data Source=(localDB)\v11.0;Initial Catalog=Basketball;Integrated Security=True;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False"
-      providerName="System.Data.SqlClient" />
+      providerName="System.Data.SqlClient" />`
   </connectionStrings>
