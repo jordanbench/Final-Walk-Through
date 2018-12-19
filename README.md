@@ -14,7 +14,7 @@
     <add name="BasketballContext" connectionString="Data Source=(localDB)\v11.0;Initial Catalog=Basketball;Integrated Security=True;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False"
       providerName="System.Data.SqlClient" />
   </connectionStrings>
-  `
+`
   
 # Create Models
 
